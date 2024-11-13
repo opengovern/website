@@ -20,14 +20,17 @@
     "Connector": "Microsoft EntraID (previously AzureAD)",
     "Tier": "Community",
     "Description": "Discover Users, Identities, Apps, Service Accounts and 20+ others.",
-    "Icon": "entraid.svg"
+    "Icon": "entraid.svg",
+    "Directory": "entraid"
+
   },
   {
     "ID": 3,
     "Connector": "Platform",
     "Tier": "Community",
     "Description": "Discover Users, Identities, Apps, Service Accounts and 20+ others.",
-    "Icon": "opencomply.svg"
+    "Icon": "opencomply.svg",
+    "Directory": "platform"
   },
   {
     "ID": 4,

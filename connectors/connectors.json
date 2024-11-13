@@ -23,6 +23,13 @@
     "Icon": "entraid.svg"
   },
   {
+    "ID": 3,
+    "Connector": "Platform",
+    "Tier": "Community",
+    "Description": "Discover Users, Identities, Apps, Service Accounts and 20+ others.",
+    "Icon": "opencomply.svg"
+  },
+  {
     "ID": 4,
     "Connector": "Google Cloud (GCP)",
     "Tier": "Enterprise",

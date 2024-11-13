@@ -20,7 +20,7 @@
     "Connector": "Microsoft EntraID (previously AzureAD)",
     "Tier": "Community",
     "Description": "Discover Users, Identities, Apps, Service Accounts and 20+ others.",
-    "Icon": "entraid.png"
+    "Icon": "entraid.svg"
   },
   {
     "ID": 4,
